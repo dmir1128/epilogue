@@ -1,0 +1,4 @@
+
+
+    window.silex = window.silex || {}
+    window.silex.data = {"site":{"width":1200},"pages":[{"id":"page-main","displayName":"main","link":{"linkType":"LinkTypePage","href":"#!page-main"},"canDelete":true,"canProperties":true,"canMove":true,"canRename":true,"opened":false},{"id":"page-gallery","displayName":"gallery","link":{"linkType":"LinkTypePage","href":"#!page-gallery"},"canDelete":true,"canRename":true,"canMove":true,"canProperties":true,"opened":false},{"id":"page-about","displayName":"about","link":{"linkType":"LinkTypePage","href":"#!page-about"},"canDelete":true,"canRename":true,"canMove":true,"canProperties":true,"opened":false}]}
